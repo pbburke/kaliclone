@@ -1,0 +1,2 @@
+# kaliclone
+Simple dumb script to clean up a kali image to get it ready for cloning to physical machines (or I guess virtual machines, just add an extra line to ensure your hypervisor of choice's tools are installed), and assign a hostname based on its MAC at every boot.  This was done for a security class for high school students to speed up deployment of this image as it is only a week long.  Adapted from https://everythingshouldbevirtual.com/virtualization/ubuntu-vmware-template-cleanup-script/
